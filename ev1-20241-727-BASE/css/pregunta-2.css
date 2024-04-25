@@ -1,0 +1,56 @@
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+    margin-left: 10px;
+    }
+
+.titulo1 {
+    background: black;
+    color: white;
+    font-size: medium;
+    text-align: end;
+}
+
+.menu {
+    padding-left: 30px;
+}
+
+.menu1 {
+    background: #ddd;
+}
+
+.body {
+    background: red;
+    padding: 0;
+    margin: 0;
+}
+
+.principal {
+    margin-top: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    left:0px;
+    bottom:0px;
+    height:20px;
+    width:100%;
+    background:#999;    
+}
+
+.carros {
+    background: black;
+}
+
+.miniatura {
+    width: 220px;
+    height: 122px;
+    margin: 0 5px;
+}
